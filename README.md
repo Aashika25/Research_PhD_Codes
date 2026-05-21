@@ -1,24 +1,5 @@
 # Research_PhD_Codes
 This Repository contains all the codes and dependencies for the RAG, Regularization techniques &amp; Data Drift modules
-Repository Structure: 
-├── Image/
-│   ├── fig1_data_drift.png
-│   ├── fig2_concept_drift.png
-│   └── mnist_keras_comparison.png
-├── Logs/
-│   └── mnist.log
-├── Scripts/
-│   ├── Data_drift.py
-│   ├── RAG.py
-│   └── regularization_model.py
-└── data/
-    ├── MNIST/raw/
-    ├── AI.pdf
-    ├── SQL.txt
-    ├── movielens_100k.csv
-    ├── movies.dat
-    ├── ratings.dat
-    └── users.dat
 
 1. Data Drift Detection (Scripts/Data_drift.py)
 Detects and visualizes data drift and concept drift in ML pipelines.
